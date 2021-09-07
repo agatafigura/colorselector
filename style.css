@@ -1,0 +1,10 @@
+#colorselector {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2vw;
+}
+
+#color-display {
+    width: 100px;
+    height: 100px;
+}
